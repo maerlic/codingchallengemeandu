@@ -21,10 +21,12 @@ Technologies Used
 Installation
 
     Clone the repository and install the dependencies to get started:
-    git clone https://github.com/yourusername/codingchallengemeandu.git
+        git clone https://github.com/yourusername/codingchallengemeandu.git
     
-    cd codingchallengemeandu
+        cd codingchallengemeandu
 
+        npm install
+    
 Usage
 
     Start the server by running:
